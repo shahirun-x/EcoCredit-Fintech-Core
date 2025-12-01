@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+python-dotenv
+openai
+langchain
+langchain-openai
+requests
+httpx
+pydantic
