@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  /* Dark Green Background */
+  background-color: #022c22; 
+  color: #ecfdf5;
+}
